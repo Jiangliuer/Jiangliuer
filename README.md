@@ -19,3 +19,10 @@
 - 🔭 My research interest includes deep learning, machine learning.
 - 👯 I am open to collaboration, feel free to contact me via [email](jiangliuer@163.com) (👈)!
 - ⚡ Please check my [homepage](https://jiangliuer.github.io/) for my CV and latest update!
+
+
+xiaohai.cheng@casivision.com
+bangli@lusterinc.com
+renzhi.xi@cygia.com
+delilah.he@microintelligence.com.cn
+carlospeng@focusight.net
