@@ -22,7 +22,11 @@
 
 
 xiaohai.cheng@casivision.com
+
 bangli@lusterinc.com
+
 renzhi.xi@cygia.com
+
 delilah.he@microintelligence.com.cn
+
 carlospeng@focusight.net
